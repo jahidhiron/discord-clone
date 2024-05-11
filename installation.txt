@@ -1,9 +1,0 @@
-Create new a terminal:
-cd backend
-npm i
-npm start
-
-Create another new a terminal:
-cd frontend
-npm i
-npm start
